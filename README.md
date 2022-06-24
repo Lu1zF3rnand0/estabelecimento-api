@@ -30,7 +30,7 @@ http://localhost:8080/api/usuario/validar
   <tr>
     <td align="center">
       <a href="http://github.com/Lu1zF3rnand0">
-        <img src="	https://avatars.githubusercontent.com/u/7717507?s=400&u=9bcf40a399b2efb61c2efece792a66ff71760cd4&v=4" width="100px;" alt="Foto de Luiz Fernando no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/7717507" width="100px;" alt="Foto de Luiz Fernando no GitHub"/><br>
         <sub>
           <b>Lu1zF3rnand0</b>
         </sub>
