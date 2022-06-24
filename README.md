@@ -13,7 +13,7 @@ API criada como exemplo
 * API RESTful;
 
 ## :rocket: Rodando o projeto
-É necessário ter instalado o MYSQL, e ver se as configurações estão de acordo com o <a href="https://github.com/Lu1zF3rnand0/estabelecimento-api/blob/master/src/main/resources/application.properties">application.properties</a>
+É necessário ter instalado o MYSQL, e ver se as configurações estão de acordo com o <a href="https://github.com/Lu1zF3rnand0/estabelecimento-api/blob/master/src/main/resources/application.properties">application.properties</a>. 
 Para rodar o repositório é necessário clonar o mesmo, abrir na sua IDE Java preferencial, baixar as dependencias e rodar o projeto,
 depois basta rodar os seguintes comandos no Postman ou Insomnia:
 ```
