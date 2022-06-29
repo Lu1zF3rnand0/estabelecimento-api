@@ -21,7 +21,7 @@ public class UsuarioController {
     }
 
     @DeleteMapping(value="/{id}/excluir")
-    public void exluir(Integer id) {
+    public void exluir(@PathVariable Integer id) {
         usuarioService.exluir(id);
     }
 
